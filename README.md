@@ -3,7 +3,7 @@
 ## Who are you?
 We are passionate about discovering solutions that can help us live longer and more importantly healthier lives
 
-## Why does your company exists ?
+## Why does your company exist ?
 To provide access to customers with wellness  and longevity solutions backed with science
 
 ## what problem do you solve ?
@@ -14,7 +14,7 @@ To provide access to customers with wellness  and longevity solutions backed wit
 - Lack of Awareness 
 - balance between holisitc and Pharma
 
-## How does your solution stands out from the crowd ?
+## How does your solution stand out from the crowd ?
 - I vouch for pharmacological products and non-pharmacological 
 - An honest balanced approach between Holistic and pharmacological
 
