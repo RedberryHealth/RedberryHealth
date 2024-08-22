@@ -8,7 +8,7 @@ To provide access to customers with wellness  and longevity solutions backed wit
 
 ## what problem do you solve ?
 - Longevity 
-- bwide Varieties 
+- wide Varieties 
 - lack of research
 - lack of accessibility 
 - Lack of Awareness 
@@ -30,7 +30,6 @@ To provide access to customers with wellness  and longevity solutions backed wit
 - Educated
 - middle age
 - healthy/ no chronic conditions 
-- metropolitan area residents
 
 ## Can people count on you ?
 - researched products 
@@ -40,10 +39,10 @@ To provide access to customers with wellness  and longevity solutions backed wit
 - reliable, responsive
 
 Why would people care about my company ?
-shared values
-high quality operations 
-Community building 
-Social responsibility 
-Innovative 
-inclusive 
-integraty
+- shared values
+- high quality operations 
+- Community building 
+- Social responsibility 
+- Innovative 
+- inclusive 
+- integraty
